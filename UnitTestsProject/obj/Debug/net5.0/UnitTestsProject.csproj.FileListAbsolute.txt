@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\UnitTestsProject\UnitTestsProject\bin\Debug\net5.0\UnitTestsProject.deps.json
+C:\Users\Admin\source\repos\UnitTestsProject\UnitTestsProject\bin\Debug\net5.0\UnitTestsProject.dll
+C:\Users\Admin\source\repos\UnitTestsProject\UnitTestsProject\bin\Debug\net5.0\ref\UnitTestsProject.dll
+C:\Users\Admin\source\repos\UnitTestsProject\UnitTestsProject\bin\Debug\net5.0\UnitTestsProject.pdb
+C:\Users\Admin\source\repos\UnitTestsProject\UnitTestsProject\obj\Debug\net5.0\UnitTestsProject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\UnitTestsProject\UnitTestsProject\obj\Debug\net5.0\UnitTestsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\UnitTestsProject\UnitTestsProject\obj\Debug\net5.0\UnitTestsProject.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\UnitTestsProject\UnitTestsProject\obj\Debug\net5.0\UnitTestsProject.AssemblyInfo.cs
+C:\Users\Admin\source\repos\UnitTestsProject\UnitTestsProject\obj\Debug\net5.0\UnitTestsProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UnitTestsProject\UnitTestsProject\obj\Debug\net5.0\UnitTestsProject.dll
+C:\Users\Admin\source\repos\UnitTestsProject\UnitTestsProject\obj\Debug\net5.0\ref\UnitTestsProject.dll
+C:\Users\Admin\source\repos\UnitTestsProject\UnitTestsProject\obj\Debug\net5.0\UnitTestsProject.pdb
