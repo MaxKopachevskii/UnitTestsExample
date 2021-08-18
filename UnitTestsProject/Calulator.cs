@@ -6,7 +6,7 @@ namespace UnitTestsProject
 	{
 		public static int Sum(int x, int y, int z = default) {
 			if (z > 0) {
-				return x + y + z;
+				return x + z + y;
 			} else {
 				return x + y;
 			}
